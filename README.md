@@ -24,6 +24,12 @@ Clone repository về máy:
 git clone https://github.com/txphu2302/Chess-ranger
 ```
 
+Dẫn vào thư mục Chess-ranger:
+
+```bash
+cd Chess-ranger
+```
+
 Trước khi chạy chương trình, hãy cài đặt các thư viện cần thiết bằng cách chạy lệnh sau:
 
 ```bash
