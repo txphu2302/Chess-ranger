@@ -2,6 +2,8 @@
 
 Chess Ranger là một chương trình xử lý các trạng thái bàn cờ vua và lưu kết quả dưới dạng tệp văn bản.
 
+
+
 ## Cấu trúc thư mục
 
 ```
@@ -15,6 +17,12 @@ chess-ranger/
 ```
 
 ## Cài đặt
+
+Clone repository về máy:
+
+```bash
+git clone https://github.com/txphu2302/Chess-ranger
+```
 
 Trước khi chạy chương trình, hãy cài đặt các thư viện cần thiết bằng cách chạy lệnh sau:
 
@@ -30,7 +38,7 @@ Chạy chương trình bằng lệnh:
 python main.py
 ```
 
-- **input:** Chương trình đọc trạng thái bàn cờ từ thư mục `testcase/`
+- **input:** Đặt quân cờ trong cửa sổ pygame và trạng thái quân cờ được lưu trong `testcase/`
 - **output:** Kết quả sẽ được lưu trong thư mục `output/`
 
 ## Đóng góp
