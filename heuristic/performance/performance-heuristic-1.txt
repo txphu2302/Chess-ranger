@@ -1,0 +1,2 @@
+Thời gian chạy: 0.6157 s
+Bộ nhớ tiêu thụ: 6.96 MB
