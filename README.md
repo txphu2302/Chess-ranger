@@ -14,7 +14,7 @@ Chess Ranger là một biến thể của cờ vua truyền thống với các q
 Chương trình hỗ trợ hai phương pháp giải:
 
 1. **DFS Thuần**: Sử dụng thuật toán Depth-First Search cơ bản để tìm kiếm lời giải.
-2. **A* Search**: Sử dụng thuật toán A* với hàm heuristic đơn giản (số quân cờ hiện tại trừ 1) để tìm lời giải tối ưu hơn.
+2. **A*** **Search**: Sử dụng thuật toán A* với hàm heuristic đơn giản (số quân cờ hiện tại trừ 1) để tìm lời giải tối ưu hơn.
 
 ## Cấu trúc thư mục
 
